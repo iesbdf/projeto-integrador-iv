@@ -1,3 +1,7 @@
+# comentario
+.idea/
+
+# comentario
 .yarn/
 package-lock.json
 node_modules/
